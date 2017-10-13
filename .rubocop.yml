@@ -1,0 +1,6 @@
+Metrics/LineLength:
+  Exclude:
+    - '*.gemspec'
+
+Metrics/LineLength:
+  Max: 120
